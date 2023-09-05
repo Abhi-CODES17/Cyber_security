@@ -5,13 +5,13 @@
 
 using namespace std;
 
-int main() {cout<<"Hello Git";
+int main() {//cout<<"Hello Git";
     
     string plaintext,plain;
     string keyword;
     char bogus='x';
     
-    cout<<"Enter your keyword:\t";
+    cout<<"\n\nEnter your keyword:\t";
     getline(cin,keyword);
     
     cout<<"Enter your plaintext:\t";
